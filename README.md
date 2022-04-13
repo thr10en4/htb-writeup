@@ -1,4 +1,4 @@
-# htb-writeup
+# htb-writeup-paper
 
 # scan ip address
 nmap -sC -sV {ip_address}
